@@ -67,7 +67,7 @@ random.shuffle(colors)
 colors = colors[:racers]
 print(colors)
 winner = race(colors)
-print(f"The winner of the race is {winner}.")
+print(f"The winner of the race is turtle with color: {winner}.")
 # create_turtles(colors)
 
 
